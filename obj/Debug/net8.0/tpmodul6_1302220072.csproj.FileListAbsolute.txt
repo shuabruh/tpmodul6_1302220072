@@ -1,0 +1,15 @@
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\bin\Debug\net8.0\tpmodul6_1302220072.exe
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\bin\Debug\net8.0\tpmodul6_1302220072.deps.json
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\bin\Debug\net8.0\tpmodul6_1302220072.runtimeconfig.json
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\bin\Debug\net8.0\tpmodul6_1302220072.dll
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\bin\Debug\net8.0\tpmodul6_1302220072.pdb
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\obj\Debug\net8.0\tpmodul6_1302220072.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\obj\Debug\net8.0\tpmodul6_1302220072.AssemblyInfoInputs.cache
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\obj\Debug\net8.0\tpmodul6_1302220072.AssemblyInfo.cs
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\obj\Debug\net8.0\tpmodul6_1302220072.csproj.CoreCompileInputs.cache
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\obj\Debug\net8.0\tpmodul6_1302220072.sourcelink.json
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\obj\Debug\net8.0\tpmodul6_1302220072.dll
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\obj\Debug\net8.0\refint\tpmodul6_1302220072.dll
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\obj\Debug\net8.0\tpmodul6_1302220072.pdb
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\obj\Debug\net8.0\tpmodul6_1302220072.genruntimeconfig.cache
+D:\Codes\C++++\tpmodul6_1302220072\tpmodul6_1302220072\obj\Debug\net8.0\ref\tpmodul6_1302220072.dll
